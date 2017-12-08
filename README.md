@@ -34,9 +34,9 @@ To get started with this project, clone the project onto the location of choice 
 You need the following to view the files on your computer.
 
 ```
-*A computer running on either Windows, MacOS or Ubuntu operating system.
-*Web Browser
-*text  Editor
+-A computer running on either Windows, MacOS or Ubuntu operating system.
+-Web Browser
+-text  Editor
 ```
 
 ## Built With
