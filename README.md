@@ -6,23 +6,23 @@ This is a web application that accepts a number and displays a list of numbers a
 The web application satisfies the following specs:
 * It can count up to the provided number
 ```
-*Example input:
-*Example output:
+*Example input:2
+*Example output:[1,2]
 ```
 * Numbers divisible by 3 are replaced with "Ping"
 ```
 *Example input:3
-*Example output:Ping
+*Example output:[1,2,Ping]
 ```
 * Numbers divisible by 5 are replaced with "Pong"
 ```
 *Example input:5
-*Example output:Pong
+*Example output:[1,2,Ping,Pong]
 ```
 * Numbers divisible by 15 are replaced with "PingPong"
 ```
-*Example input:30
-*Example output:PingPong
+*Example input:15
+*Example output:[1,2,Ping,4,Pong,Ping,7,8,Ping,Pong,11,Ping,13,14,PingPong]
 ```
 
 ## Getting Started
@@ -51,6 +51,3 @@ You need the following to view the files on your computer.
 
 * **Peter Polle** - *Initial work* - 
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
